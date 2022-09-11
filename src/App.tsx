@@ -12,6 +12,7 @@ import Badge from "@material-ui/core/Badge";
 
 //styles
 import { StyledButton, Wrapper } from "./App.styles";
+import Cart from "./Cart/Cart";
 
 //Types
 export type CartItemType={
